@@ -1,2 +1,3 @@
-# fluxbox-settings
-Manjaro fluxbox desktop settings
+# Fluxbox settings
+
+Fluxbox settings for Manjaro Fluxbox Spin.
